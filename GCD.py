@@ -12,6 +12,9 @@ def gcd(a,b):
     return a
 #print(gcd(319,377))  #29
 
+
+#求素数
+
 #构造序列(只需奇数即可)
 def _odd_iter():
     n=1
